@@ -1,2 +1,3 @@
 # jellyfin
 linuxserver/jellyfin:latest
+nyanmisaka/jellyfin:latest
